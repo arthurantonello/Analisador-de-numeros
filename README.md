@@ -1,0 +1,1 @@
+Site criado com propósito de estudos, utilizando do material contido nas aulas de JavaScript do canal Curso em Vídeo, mais especificadamente nos exercícios parte 7 e 8
